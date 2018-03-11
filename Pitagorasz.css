@@ -1,0 +1,13 @@
+body { background: orange; font-family: Arial; text-align: justify; }
+.content { background: cornsilk; width: 960px; margin: 0 auto; padding: 20px; }
+h1 { text-align: center; border-bottom: 3px double orange; }
+h2 { border-bottom: 1px solid orange; border-top: 1px solid orange; width: 50%; padding: 5px 0; margin-top: 0; }
+p { text-indent: 25px;}
+ul { margin: 0 0 0 50px; }
+p,li {line-height: 1.5em; }
+img { width: 200px; border: 1px solid orange; margin-left: 20px; }
+.abra1 { float: right; }
+.abra2 { margin-bottom: 50px; }
+td { vertical-align: top; }
+footer { width: 880px; margin: 0 auto; }
+a { font-style: italic; }
